@@ -1,14 +1,15 @@
-
+<img width="1500" height="1125" alt="image" src="https://github.com/user-attachments/assets/4f64e885-f4c3-4687-b609-e27e0a4407f8" />
 # Project name: Hextoria
 
 **Brief outline:** Hextoria is a gothic 2D side-scrolling sandbox platformer developed in Python using Pygame. Explore a randomly generated world, jump, build and break blocks and customise your environment.
+
+<img width="598" height="444" alt="Screenshot 2026-11-01 at 10 36 17 pm" src="https://github.com/user-attachments/assets/b1d40750-fc9e-4622-b1d9-b6a193153a28" />
 
 ## Table of Contents
 
 - General Info
 - Technologies Used
 - Features
-- Screenshots
 - Setup
 - Usage
 - Project Status
@@ -37,9 +38,7 @@ I undertook this project to challenge myself to apply new programming knowledge 
 - Advanced collision physics - detect player interaction with solid terrain
 - Save and load system - save world modifications and player coordinates using JSON
 - Gothic visual design - 16x16 pixel art sprites with a gothic-inspired aesthetic
-
-## Screenshots
-
+- 
 ## Setup:
 
 ### Requirements and Dependencies:
