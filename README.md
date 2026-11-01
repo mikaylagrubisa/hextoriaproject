@@ -72,10 +72,11 @@ The project currently uses Pygame as its external dependency. No requirements.tx
 
 ### Keybinds:
 
-- A/D = move left and right
+- W/A/S/D = move player
 - Space = jump
 - Space while airborne = double jump
 - Shift = sprint
+- 1-5 = switch between blocks in the hotbar
 - Mouse left-click = remove blocks
 - Mouse right-click = place blocks
 - Mouse wheel = adjust camera zoom
