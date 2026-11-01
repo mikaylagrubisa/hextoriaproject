@@ -116,4 +116,4 @@ Markdown Live Preview. (n.d.) https://markdownlivepreview.com/
 ritaly. (2018). GitHub - ritaly/README-cheatsheet: Template for a clear GitHub README (markdown). GitHub. https://github.com/ritaly/README-cheatsheet#general-information
 
 
-Many thanks to my tutor for providing that guidance and resources to help expand my programming knowledge.
+Many thanks to my tutor for providing the guidance and resources to help expand my programming knowledge.
