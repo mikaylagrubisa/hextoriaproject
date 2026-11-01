@@ -37,7 +37,7 @@ I undertook this project to challenge myself to apply new programming knowledge 
 - Advanced collision physics - detect player interaction with solid terrain
 - Save and load system - save world modifications and player coordinates using JSON
 - Gothic visual design - 16x16 pixel art sprites with a gothic-inspired aesthetic
-- 
+
 ## Setup:
 
 ### Requirements and Dependencies:
