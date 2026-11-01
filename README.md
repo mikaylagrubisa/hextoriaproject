@@ -50,7 +50,7 @@ The project requires the following installed:
 
 ### Installation:
 
-1. Install Python - download and install Python 3.x from python.org
+1. Install Python - download and install Python 3.15 from python.org
 
 2. Install pygame - open your terminal and run the following command:
 
