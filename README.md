@@ -116,7 +116,7 @@ Fredricksen, E. (2011). jsfxr [Computer software]. https://sfxr.me/
 
 Łyczywek, R. (2018, October 15). How to write a good README for your GitHub project? Bulldogjob.com; Bulldogjob. https://bulldogjob.com/readme/how-to-write-a-good-readme-for-your-github-project 
 
-Markdown Live Preview. (n.d.) https://markdownlivepreview.com/
+Markdown Live Preview. (n.d.) https://markdownlivepreview.com/ 
 
 Nimlos. (2018). Ambience city night DPA semibinaural [Audio file]. Freesound. https://freesound.org/people/Nimlos/sounds/454822/  
 
