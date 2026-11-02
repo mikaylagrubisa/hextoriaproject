@@ -101,14 +101,14 @@ This project was inspired by Growtopia, Terraria and Minecraft
 
 This project was developed and modified from the following tutorials:
 
-DaFluffyPotato. (2023, July 18). *Pygame Platformer Tutorial - Full Course* [Video]. Youtube. https://www.youtube.com/watch?v=2gABYM5M0ww
+CDcodes. (2020, November 26). *Pygame Tile Based Game Tutorial: Collisions* [Video]. Youtube.https://www.youtube.com/watch?v=vAfveKX1pSc&t=2s
 
 CDcodes. (2021, August 1). *Pygame Saving and Loading Tutorial: Creating Customizable Controls* [Video]. Youtube. https://www.youtube.com/watch?v=1UCaiX8ESsQ
 
-CDcodes. (2020, November 26). *Pygame Tile Based Game Tutorial: Collisions* [Video]. Youtube.https://www.youtube.com/watch?v=vAfveKX1pSc&t=2s
-
 Coding With Russ. (2020, December 2). PyGame Tile Based Platformer Game Beginner Tutorial in Python - PART 1 | Creating the World [Video]. Youtube 
 https://www.youtube.com/watch?v=Ongc4EVqRjo&t=922s
+
+DaFluffyPotato. (2023, July 18). *Pygame Platformer Tutorial - Full Course* [Video]. Youtube. https://www.youtube.com/watch?v=2gABYM5M0ww
 
 Dreamset Services. (2025, August 26). How to Create Random Number Generator in Python. [Video]. Youtube. https://www.youtube.com/watch?v=QtkVyzaFpFQ
 
