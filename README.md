@@ -112,7 +112,11 @@ DaFluffyPotato. (2023, July 18). *Pygame Platformer Tutorial - Full Course* [Vid
 
 Dreamset Services. (2025, August 26). How to Create Random Number Generator in Python. [Video]. Youtube. https://www.youtube.com/watch?v=QtkVyzaFpFQ
 
+Fredricksen, E. (2011). jsfxr [Computer software]. https://sfxr.me/ 
+
 Markdown Live Preview. (n.d.) https://markdownlivepreview.com/
+
+Nimlos. (2018). Ambience city night DPA semibinaural [Audio file]. Freesound. https://freesound.org/people/Nimlos/sounds/454822/  
 
 ritaly. (2018). GitHub - ritaly/README-cheatsheet: Template for a clear GitHub README (markdown). GitHub. https://github.com/ritaly/README-cheatsheet#general-information
 
